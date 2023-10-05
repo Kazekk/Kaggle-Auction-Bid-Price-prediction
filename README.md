@@ -22,15 +22,9 @@ Digital Turbine introduces an Ad Exchange that connects publishers and advertise
 
 As one of the global leading exchanges, Digital Turbine operates on a massive scale, managing over 100 billion requests daily from hundreds of millions of devices. Among the numerous challenges of such a large-scale Ad Exchange, predicting the pricing is paramount. To stay competitive, it's essential to anticipate what other exchanges might bid for a request and, more importantly, predict the winning bid for that request.
 
-**Your task**: Given certain auction attributes and a signal indicating if Digital Turbine won that auction or not, your objective is to determine the bid price that would have secured the auction (i.e., the "winBid"). This is fundamentally a regression problem where the aim is to predict the winning bid price in $ CPM.
+**Task**: Given certain auction attributes and a signal indicating if Digital Turbine won that auction or not, your objective is to determine the bid price that would have secured the auction (i.e., the "winBid"). This is fundamentally a regression problem where the aim is to predict the winning bid price in $ CPM.
 
 For a comprehensive description of the dataset, please refer to the "Data" section of the Kaggle competition.
-
-### Recruitment Opportunity with Digital Turbine
-
-This competition also serves as a recruitment platform for Digital Turbine's Data Science roles in Warsaw and Petach Tikva. Participants showcasing high-quality contributions, such as high leaderboard scores, innovative notebooks, or insightful forum discussions, have the opportunity to secure an interview, giving them an edge in the recruitment process.
-
-[More about the position and how to apply.](LINK_TO_POSITION)
 
 ## How to Use this Repository
 
